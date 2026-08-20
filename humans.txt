@@ -1,0 +1,14 @@
+/* TEAM */
+Developer: Maple
+Role: Student Developer, Robotics & Python Learner
+Location: Nigeria
+GitHub: https://github.com/strongMaple
+
+/* SITE */
+Site Name: Maple Portfolio
+URL: https://strong-maple.netlify.app
+Tech Stack: C++, Python, Linux, ROS2
+Purpose: Documenting learning journey, projects, and experiments in web both Python and C++.
+
+/* THANKS */
+Inspired by open-source developers, beginner-friendly tech educators, and the global ROS2 community.
